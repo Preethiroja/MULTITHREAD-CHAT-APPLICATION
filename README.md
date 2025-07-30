@@ -15,7 +15,7 @@ MENTOR: NEELA SANTHOSH
 # TASK DESCRIPTION
 
 This project demonstrates a basic client-server chat application using Java sockets. It allows multiple clients to connect to a server and exchange messages in real-time, simulating a basic group chat system.
-🖥️ Components:
+Components:
 ChatServer.java:
 Acts as a central server that accepts multiple client connections on port 1234.
 Maintains a list of connected clients using a Set<ClientHandler>.
@@ -27,13 +27,13 @@ Connects to the server running on "localhost" and port 1234.
 Prompts the user for a name and sends/receives messages to/from the server.
 Uses a separate thread to continuously listen for messages from the server while allowing user input.
 
-🔧 Key Features:
+Key Features:
 Multi-client support using multithreading (Thread class).
 Graceful handling of client join/leave.
 Real-time message broadcasting using shared resources (PrintWriter).
 Easy termination using "exit" command.
 
-📌 Use Case:
+Use Case:
 This project is suitable for:
 Learning socket programming in Java.
 Understanding multi-threaded server development.
