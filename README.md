@@ -1,4 +1,5 @@
 # REST-API-CLIENT
+
 COMPANY: CODTECH IT SOLUTION
 
 NAME: PREETHI ROJA G
@@ -37,3 +38,7 @@ This project is suitable for:
 Learning socket programming in Java.
 Understanding multi-threaded server development.
 Building foundational knowledge for chatbots, networked games, or online collaboration tools.
+
+# OUTPUT
+
+<img width="1305" height="238" alt="Image" src="https://github.com/user-attachments/assets/ef35a4d3-61aa-4051-89fa-98ea475af7c0" />
